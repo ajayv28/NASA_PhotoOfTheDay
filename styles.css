@@ -1,0 +1,27 @@
+body {
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+
+.current-image {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+#current-image {
+    max-width: 100%;
+    height: auto;
+}
+
+form {
+    margin: 20px 0;
+}
+
+#search-history li {
+    cursor: pointer;
+}
